@@ -3,6 +3,8 @@ module DynamicPanel
 export static_panel
 
 # Packages.
+import LinearAlgebra
+import Kronecker
 using LinearAlgebra, Kronecker
 
 
