@@ -5,7 +5,7 @@ export static_panel
 # Packages.
 import LinearAlgebra
 import Kronecker
-using LinearAlgebra, Kronecker
+using LinearAlgebra, Kronecker, DataFrames
 
 
 ### Static Panel function
